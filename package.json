@@ -1,0 +1,14 @@
+{
+  "name": "shamir-secret-sharing",
+  "version": "1.0.0",
+  "description": "Shamir Secret Sharing Assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.52"
+  }
+}
